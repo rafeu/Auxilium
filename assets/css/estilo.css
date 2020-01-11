@@ -1,0 +1,116 @@
+.divider{
+    clear: both;
+}
+
+#tres_colunas{
+    width: 100%;
+}
+
+#principal_sobre{
+    width: 50%;
+    margin-left: 23.5%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    text-align: center;
+    font-size: 19px;
+}
+
+.titulo_principal{
+    color: #115a72;
+    margin-bottom: 60px;
+}
+
+#abaixo_geral{
+    width: 35%;
+    margin-left: 33.5%;
+    margin-top: -3%;
+    margin-bottom: 5%;
+}
+
+.titulo_colum{
+    margin-left: 8px;
+    font-size: 37px;
+    color: #115a72;
+}
+
+.sub_column{
+    margin-left: 60px;
+    font-size: 20px;
+}
+
+.coluna1{
+    width: 17%;
+    float: left;
+    margin-left: 5%;
+    font-size: 16px;
+}
+
+.colunas{
+    width: 17%;
+    float: left;
+    margin-left: 20%;
+    font-size: 16px;
+}
+
+.imgs_coluns{
+    width: 35%;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+
+.link{
+    color: black;
+    font-size: 16px;
+}
+
+.border_radius_none{
+    border-radius: 0%; 
+}
+
+
+/* DETALHA EVENTOS */
+
+.detalha_container{
+    width: 100%;
+    margin-top: 20%;
+}
+
+#participe_esq{
+    width: 100%;
+    float: left;
+}
+
+.descricao_detalha{
+    width: 50%;
+}
+
+
+.descricao_envia{
+    float: right;
+}
+
+.redesSociaisIcon{
+    width: 25px;
+    height: 25px;
+}
+
+.divBusca{
+  background-color: white;
+  margin-top: -3%;
+  margin-left: 73%;
+}
+ 
+#txtBusca{
+  background-color:transparent;
+  padding-left:5px;
+  font-size:18px;
+  border:none;
+  height:32px;
+  width:260px;
+}
+
+.iconPesquisa{
+    max-width: 25%;
+}
+
+
